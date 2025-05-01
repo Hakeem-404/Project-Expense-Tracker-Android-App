@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">projectExpenseTracker</string>
+
+    <!--    source: https://developer.android.com/develop/ui/views/components/spinner#java-->
+    <string-array name="projectStatusArray">
+        <item>Active</item>
+        <item>Completed</item>
+        <item>On Hold</item>
+    </string-array>
+
+    <string-array name="expenseTypeArray">
+        <item>Travel</item>
+        <item>Equipment</item>
+        <item>Materials</item>
+        <item>Services</item>
+        <item>Software/Licence</item>
+        <item>Labour costs</item>
+        <item>Utilities</item>
+        <item>Miscellaneous</item>
+    </string-array>
+
+    <string-array name="paymentMethodArray">
+        <item>Cash</item>
+        <item>Credit Card</item>
+        <item>Bank Transfer</item>
+        <item>Cheque</item>
+    </string-array>
+
+    <string-array name="currencyArray">
+        <item>Dollars ($)</item>
+        <item>Pound Sterling (£)</item>
+        <item>Euros (€)</item>
+        <item>Yen (¥)</item>
+        <item>Naira (N)</item>
+        <item>Rupees (₹)</item>
+        <item>Francs (₣)</item>
+        <item>Cedes (C)</item>
+        <item>Rand (R)</item>
+    </string-array>
+
+    <string-array name="paymentStatusArray">
+        <item>Paid</item>
+        <item>Pending</item>
+        <item>Reimbursed</item>
+    </string-array>
+
+</resources>

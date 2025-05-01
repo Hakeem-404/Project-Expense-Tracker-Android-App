@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Source: https://github.com/Abhishek111883/Android-project/tree/d117982d9b8a1182330f717dca3d2d1a46329416-->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="always|collapseActionView" />
+
+    <item
+        android:id="@+id/action_advanced_search"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:title="Advanced Search"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_upload"
+        android:icon="@android:drawable/ic_menu_upload"
+        android:title="Upload to Firebase"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_restore"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:title="Restore from Cloud"
+        app:showAsAction="ifRoom" />
+
+</menu>
