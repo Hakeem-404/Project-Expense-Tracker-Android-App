@@ -57,7 +57,7 @@ git clone https://github.com/Hakeem-404/Project-Expense-Tracker-Android-App.git
 - **Services/**: Cloud connectivity and synchronization services
 
 ## Screenshots
-<img width="143" alt="Homepage" src="https://github.com/user-attachments/assets/eda75d2a-5ff0-4f28-9da0-40c9a1424abf" />
+1. HomePage<img width="143" alt="Homepage" src="https://github.com/user-attachments/assets/eda75d2a-5ff0-4f28-9da0-40c9a1424abf" />
 <img width="144" alt="Menu & Features" src="https://github.com/user-attachments/assets/7cf926fb-2458-4417-8295-bd32909a67e9" />
 <img width="143" alt="Restore From Cloud Feature" src="https://github.com/user-attachments/assets/5f6ec8ed-daca-4b72-b169-75e062faf8aa" />
 <img width="151" alt="Restoring loading indicator" src="https://github.com/user-attachments/assets/080a1fd7-5be8-4402-af66-187a449a03f4" />
